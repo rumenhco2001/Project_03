@@ -1,0 +1,42 @@
+ marquee {
+        width: 100%;
+        padding: 10px 0;
+        background-color: #17E6F5;
+		scrollamount: 5;
+      }
+input{
+	color: #1A00FF;
+}
+body {
+	background-color: #0CF351 ;
+	font-size: 35px;
+}
+form {
+	font-size: 25px;
+}
+input {
+	font-size: 30px;
+}
+b{
+	font-size: 50px;
+	color: #034897 ;
+}
+img{
+width:289px;
+}
+a{
+	color:#5C00FC;
+	font-size: 41px;
+	 width: 100%;
+        padding: 10px;
+}
+p{
+	color: #8B0F83;
+	font-size: 28px;
+}
+h2{
+	font-size: 34px;
+}
+h3{
+	font-size: 31px;
+}
