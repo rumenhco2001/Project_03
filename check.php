@@ -27,6 +27,7 @@ echo '<h1>' . "Моля, въведи правилен код за цвета, �
 ?>
 			<html>
 					 <img src='important.jpg' alt='important message' />
+					 <h3> <a href="form.html"> Начало </a> </h3>
 			 </html>
 	 <?php
 }
